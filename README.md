@@ -39,13 +39,13 @@ news_p = "Preparation of NASA's next spacecraft to Mars, InSight, has ramped up 
 featured_image_url = 'https://spaceimages-mars.com/image/featured/mars2.jpg'
 ```
 
-### Mars Facts
+### 3  Mars Facts
 
-* Visit the Mars Facts webpage [here](https://galaxyfacts-mars.com) and use Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
+* Visited the Mars Facts webpage [here](https://galaxyfacts-mars.com) and use Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
 
-* Use Pandas to convert the data to a HTML table string.
+* Used Pandas to convert the data to a HTML table string.
 
-###3  Mars Hemispheres
+### 4  Mars Hemispheres
 
 * Visited the astrogeology site [here](https://marshemispheres.com/) to obtain high resolution images for each of Mar's hemispheres.
 
